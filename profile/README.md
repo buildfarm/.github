@@ -2,7 +2,7 @@
 
 # Welcome to the buildfarm organization page!
 
-buildfarm is an Open Source remote caching and execution system for the [Remote Execution API](https://github.com/bazelbuild/remote-apis)
+[buildfarm](https://github.com/buildfarm/buildfarm) is an Open Source remote caching and execution system for the [Remote Execution API](https://github.com/bazelbuild/remote-apis)
 
 You can get started using buildfarm with [bazel](https://bazel.build) by following our [Quickstart](https://buildfarm.github.io/buildfarm/docs/quick_start/)
 
